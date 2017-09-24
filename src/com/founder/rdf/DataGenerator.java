@@ -1,3 +1,4 @@
+test
 package com.founder.rdf;
 
 import java.io.BufferedWriter;
